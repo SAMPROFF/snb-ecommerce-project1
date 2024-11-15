@@ -7,7 +7,7 @@ import Register from './PagesFolder/Register.jsx';
 // import Navbar from './components/Navbar.jsx';
 import ProductInfo from './PagesFolder/ProductInfo.jsx';
 import Login from './PagesFolder/Login.jsx';
-// import CartContext from './ContextFolder/CartContext.jsx';
+// import CartContext from'./ContextFolder/CartContext.jsx';
 import CartProvider from './ContextFolder/CartContext.jsx';
 
 
